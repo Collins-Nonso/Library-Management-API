@@ -81,7 +81,7 @@ http://localhost:5000
 
 Add your Postman collection link here:
 
-**Postman Docs:** [https://documenter.getpostman.com/view/your-collection-id](https://documenter.getpostman.com/view/42152304/2sBXiqG9MN)
+**Postman Docs:** [https://documenter.getpostman.com/view/42152304/2sBXiqG9MN]
 
 Suggested folders in Postman:
 
