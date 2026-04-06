@@ -81,7 +81,7 @@ http://localhost:5000
 
 Add your Postman collection link here:
 
-**Postman Docs:** [https://documenter.getpostman.com/view/your-collection-id](https://documenter.getpostman.com/view/your-collection-id)
+**Postman Docs:** [https://documenter.getpostman.com/view/your-collection-id](https://documenter.getpostman.com/view/42152304/2sBXiqG9MN)
 
 Suggested folders in Postman:
 
@@ -148,6 +148,6 @@ Suggested folders in Postman:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Collins Obetta**
 
 Backend Developer | Node.js | Express | MongoDB
