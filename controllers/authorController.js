@@ -9,13 +9,13 @@ exports.createAuthor = async (req, res) => {
 // Get All Authors
 exports.getAuthors = async (req, res) => {
   const authors = await Author.find();
-  res.json(authors);
+  res.status(200).json(authors);
 };
 
 // Get Author by ID
 exports.getAuthor = async (req, res) => {
   const author = await Author.findById(req.params.id);
-  res.json(author);
+  res.status(200).json(author);
 };
 
 // Update Author
@@ -23,7 +23,7 @@ exports.updateAuthor = async (req, res) => {
   const author = await Author.findByIdAndUpdate(req.params.id, req.body, {
     new: true,
   });
-  res.json(author);
+  res.status(200).json(author);
 };
 
 // Delete Author

@@ -1,14 +1,14 @@
 {
   "name": "inventorymanagement",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Library Management System built with Node.js, Express, and MongoDB.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Collins Obetta",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

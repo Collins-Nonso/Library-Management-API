@@ -9,5 +9,5 @@ exports.createAttendant = async (req, res) => {
 // Get All Attendants
 exports.getAttendants = async (req, res) => {
   const attendants = await Attendant.find();
-  res.json(attendants);
+  res.status(200).json(attendants);
 };
